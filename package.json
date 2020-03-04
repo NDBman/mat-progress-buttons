@@ -1,15 +1,15 @@
 {
-  "name": "mat-progress-buttons",
+  "name": "@icell/mat-progress-buttons",
   "description": "Material Design Progress Buttons",
   "version": "8.0.7",
-  "homepage": "https://github.com/michaeldoye/mat-progress-buttons",
+  "homepage": "https://github.com/NDBman/mat-progress-buttons",
   "author": {
     "name": "Michael Doye",
     "url": "https://github.com/michaeldoye"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/michaeldoye/mat-progress-buttons.git"
+    "url": "git@github.com:NDBman/mat-progress-buttons.git"
   },
   "license": "MIT",
   "keywords": [
@@ -29,20 +29,20 @@
   },
   "dependencies": {
     "@angular-devkit/schematics": "^0.8.2",
-    "@angular/cdk": "^8.0.2",
-    "@angular/common": "~8.2.4",
-    "@angular/core": "~8.2.4",
-    "@angular/material": "^8.0.2",
-    "tsickle": "^0.35.0"
+    "@angular/cdk": "^9.1.0",
+    "@angular/common": "~9.0.4",
+    "@angular/core": "~9.0.4",
+    "@angular/material": "^9.1.0",
+    "tsickle": "^0.38.0"
   },
   "devDependencies": {
-    "@angular/animations": "^8.2.4",
-    "@angular/compiler": "~8.2.4",
-    "@angular/compiler-cli": "~8.2.4",
-    "@angular/forms": "^8.2.6",
-    "@angular/platform-browser": "~8.2.4",
-    "@angular/platform-browser-dynamic": "~8.2.4",
-    "@angular/platform-server": "~8.2.4",
+    "@angular/animations": "^9.0.4",
+    "@angular/compiler": "~9.0.4",
+    "@angular/compiler-cli": "~9.0.4",
+    "@angular/forms": "^9.0.4",
+    "@angular/platform-browser": "~9.0.4",
+    "@angular/platform-browser-dynamic": "~9.0.4",
+    "@angular/platform-server": "~9.0.4",
     "@compodoc/gulp-compodoc": "0.0.10",
     "@types/jasmine": "2.5.41",
     "@types/lodash": "4.14.92",
@@ -51,8 +51,8 @@
     "angular2-template-loader": "0.6.2",
     "ansi-colors": "2.0.1",
     "autoprefixer": "8.4.1",
-    "awesome-typescript-loader": "5.0.0",
-    "codelyzer": "4.2.1",
+    "awesome-typescript-loader": "5.2.1",
+    "codelyzer": "5.2.1",
     "commitplease": "3.2.0",
     "conventional-github-releaser": "2.0.2",
     "core-js": "2.5.5",
@@ -93,19 +93,19 @@
     "rollup-plugin-sourcemaps": "0.4.2",
     "rollup-plugin-uglify": "3.0.0",
     "run-sequence": "2.2.1",
-    "rxjs": "6.3.3",
+    "rxjs": "6.5.4",
     "sass-loader": "7.0.1",
     "source-map-loader": "0.2.3",
     "to-string-loader": "1.1.5",
     "travis-status": "2.0.0",
-    "tsickle": "0.35.0",
+    "tsickle": "0.38.0",
     "tslint": "5.7.0",
-    "typescript": "~3.5.3",
+    "typescript": "~3.7.5",
     "webpack": "4.8.0",
     "webpack-dev-middleware": "3.1.3",
     "webpack-dev-server": "^3.2.1",
     "yargs": "11.0.0",
-    "zone.js": "0.8.26"
+    "zone.js": "0.10.2"
   },
   "engines": {
     "node": ">=10.0.0"
@@ -125,5 +125,8 @@
       "demo"
     ],
     "scope": "\\S+.*"
-  }
+  },
+  "publishConfig": {
+    "registry": "https://nexus.icellmobilsoft.hu/repository/angular4_npm/"
+}
 }
