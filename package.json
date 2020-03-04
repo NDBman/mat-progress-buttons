@@ -1,7 +1,7 @@
 {
   "name": "@icell/mat-progress-buttons",
   "description": "Material Design Progress Buttons",
-  "version": "8.0.7",
+  "version": "9.0.0",
   "homepage": "https://github.com/NDBman/mat-progress-buttons",
   "author": {
     "name": "Michael Doye",
@@ -25,7 +25,8 @@
     "test": "gulp test",
     "link": "gulp link",
     "demo": " gulp build:demo",
-    "check-travis": " travis-status --repo=michaeldoye/mat-progress-buttons --branch=master --fail-pending || echo 'Not yet passing'"
+    "check-travis": " travis-status --repo=michaeldoye/mat-progress-buttons --branch=master --fail-pending || echo 'Not yet passing'",
+    "postinstall": "ngcc --properties es2015 browser module main --first-only --create-ivy-entry-points"
   },
   "dependencies": {
     "@angular-devkit/schematics": "^0.8.2",
@@ -128,5 +129,5 @@
   },
   "publishConfig": {
     "registry": "https://nexus.icellmobilsoft.hu/repository/angular4_npm/"
-}
+  }
 }
