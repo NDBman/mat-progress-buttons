@@ -1,11 +1,16 @@
+<a name="9.0.0"></a>
+# [9.0.0](https://github.com/NDBman/mat-progress-buttons/compare/v8.0.7...v9.0.0) (2020-03-04)
+
+
+
 <a name="8.0.7"></a>
-## [8.0.7](https://github.com/michaeldoye/mat-progress-buttons/compare/v8.0.6...v8.0.7) (2019-09-20)
+## [8.0.7](https://github.com/NDBman/mat-progress-buttons/compare/v8.0.6...v8.0.7) (2019-09-20)
 
 
 ### Features
 
-* **lib:** full icon support for mat-fab ([#59](https://github.com/michaeldoye/mat-progress-buttons/issues/59)) ([c00f7c7](https://github.com/michaeldoye/mat-progress-buttons/commit/c00f7c7)), closes [#37](https://github.com/michaeldoye/mat-progress-buttons/issues/37)
-* **lib:** full icon support for spinner and bar buttons ([f49d900](https://github.com/michaeldoye/mat-progress-buttons/commit/f49d900)), closes [#13](https://github.com/michaeldoye/mat-progress-buttons/issues/13)
+* **lib:** full icon support for mat-fab ([#59](https://github.com/NDBman/mat-progress-buttons/issues/59)) ([c00f7c7](https://github.com/NDBman/mat-progress-buttons/commit/c00f7c7)), closes [#37](https://github.com/NDBman/mat-progress-buttons/issues/37)
+* **lib:** full icon support for spinner and bar buttons ([f49d900](https://github.com/NDBman/mat-progress-buttons/commit/f49d900)), closes [#13](https://github.com/NDBman/mat-progress-buttons/issues/13)
 
 
 ### BREAKING CHANGES
@@ -15,47 +20,47 @@
 
 
 <a name="8.0.6"></a>
-## [8.0.6](https://github.com/michaeldoye/mat-progress-buttons/compare/v8.0.5...v8.0.6) (2019-09-16)
+## [8.0.6](https://github.com/NDBman/mat-progress-buttons/compare/v8.0.5...v8.0.6) (2019-09-16)
 
 
 ### Features
 
-* **lib:** allow custom class for spinner and bar buttons ([#58](https://github.com/michaeldoye/mat-progress-buttons/issues/58)) ([f42a593](https://github.com/michaeldoye/mat-progress-buttons/commit/f42a593))
+* **lib:** allow custom class for spinner and bar buttons ([#58](https://github.com/NDBman/mat-progress-buttons/issues/58)) ([f42a593](https://github.com/NDBman/mat-progress-buttons/commit/f42a593))
 
 
 
 <a name="8.0.5"></a>
-## [8.0.5](https://github.com/michaeldoye/mat-progress-buttons/compare/v8.0.4...v8.0.5) (2019-09-10)
+## [8.0.5](https://github.com/NDBman/mat-progress-buttons/compare/v8.0.4...v8.0.5) (2019-09-10)
 
 
 
 <a name="8.0.4"></a>
-## [8.0.4](https://github.com/michaeldoye/mat-progress-buttons/compare/v8.0.3...v8.0.4) (2019-05-16)
+## [8.0.4](https://github.com/NDBman/mat-progress-buttons/compare/v8.0.3...v8.0.4) (2019-05-16)
 
 
 
 <a name="8.0.3"></a>
-## [8.0.3](https://github.com/michaeldoye/mat-progress-buttons/compare/v8.0.2...v8.0.3) (2019-03-14)
+## [8.0.3](https://github.com/NDBman/mat-progress-buttons/compare/v8.0.2...v8.0.3) (2019-03-14)
 
 
 ### Bug Fixes
 
-* **lib:** prevent bubling when active ([7be3008](https://github.com/michaeldoye/mat-progress-buttons/commit/7be3008))
+* **lib:** prevent bubling when active ([7be3008](https://github.com/NDBman/mat-progress-buttons/commit/7be3008))
 
 
 
 <a name="8.0.2"></a>
-## [8.0.2](https://github.com/michaeldoye/mat-progress-buttons/compare/v8.0.1...v8.0.2) (2019-03-13)
+## [8.0.2](https://github.com/NDBman/mat-progress-buttons/compare/v8.0.1...v8.0.2) (2019-03-13)
 
 
 
 <a name="8.0.1"></a>
-## [8.0.1](https://github.com/michaeldoye/mat-progress-buttons/compare/v7.1.2...v8.0.1) (2019-03-13)
+## [8.0.1](https://github.com/NDBman/mat-progress-buttons/compare/v7.1.2...v8.0.1) (2019-03-13)
 
 
 ### Bug Fixes
 
-* **lib:** prevent bubbling of disabled button ([b8ec4b3](https://github.com/michaeldoye/mat-progress-buttons/commit/b8ec4b3)), closes [#23](https://github.com/michaeldoye/mat-progress-buttons/issues/23)
+* **lib:** prevent bubbling of disabled button ([b8ec4b3](https://github.com/NDBman/mat-progress-buttons/commit/b8ec4b3)), closes [#23](https://github.com/NDBman/mat-progress-buttons/issues/23)
 
 
 ### BREAKING CHANGES
@@ -65,66 +70,66 @@
 
 
 <a name="7.1.2"></a>
-## [7.1.2](https://github.com/michaeldoye/mat-progress-buttons/compare/v7.1.1...v7.1.2) (2019-03-09)
+## [7.1.2](https://github.com/NDBman/mat-progress-buttons/compare/v7.1.1...v7.1.2) (2019-03-09)
 
 
 ### Bug Fixes
 
-* **lib:** improve comp styles ([9b70605](https://github.com/michaeldoye/mat-progress-buttons/commit/9b70605))
+* **lib:** improve comp styles ([9b70605](https://github.com/NDBman/mat-progress-buttons/commit/9b70605))
 
 
 ### Features
 
-* **lib:** added icon support for fab ([7346207](https://github.com/michaeldoye/mat-progress-buttons/commit/7346207))
-* **lib:** static spinner size for fab spinner ([593cfbc](https://github.com/michaeldoye/mat-progress-buttons/commit/593cfbc))
+* **lib:** added icon support for fab ([7346207](https://github.com/NDBman/mat-progress-buttons/commit/7346207))
+* **lib:** static spinner size for fab spinner ([593cfbc](https://github.com/NDBman/mat-progress-buttons/commit/593cfbc))
 
 
 
 <a name="7.1.1"></a>
-## [7.1.1](https://github.com/michaeldoye/mat-progress-buttons/compare/v7.0.10...v7.1.1) (2019-02-28)
+## [7.1.1](https://github.com/NDBman/mat-progress-buttons/compare/v7.0.10...v7.1.1) (2019-02-28)
 
 
 ### Bug Fixes
 
-* **demo:** updated spinner size and added missing method ([b5b20bd](https://github.com/michaeldoye/mat-progress-buttons/commit/b5b20bd))
+* **demo:** updated spinner size and added missing method ([b5b20bd](https://github.com/NDBman/mat-progress-buttons/commit/b5b20bd))
 
 
 ### Features
 
-* **lib:** mat fab button ([9efcfa7](https://github.com/michaeldoye/mat-progress-buttons/commit/9efcfa7))
-* **lib:** mat flat button ([4443be4](https://github.com/michaeldoye/mat-progress-buttons/commit/4443be4))
+* **lib:** mat fab button ([9efcfa7](https://github.com/NDBman/mat-progress-buttons/commit/9efcfa7))
+* **lib:** mat flat button ([4443be4](https://github.com/NDBman/mat-progress-buttons/commit/4443be4))
 
 
 
 <a name="7.0.10"></a>
-## [7.0.10](https://github.com/michaeldoye/mat-progress-buttons/compare/v7.0.5...v7.0.10) (2018-12-21)
+## [7.0.10](https://github.com/NDBman/mat-progress-buttons/compare/v7.0.5...v7.0.10) (2018-12-21)
 
 
 
 <a name="7.0.5"></a>
-## [7.0.5](https://github.com/michaeldoye/mat-progress-buttons/compare/v7.0.4...v7.0.5) (2018-09-19)
+## [7.0.5](https://github.com/NDBman/mat-progress-buttons/compare/v7.0.4...v7.0.5) (2018-09-19)
 
 
 
 <a name="7.0.4"></a>
-## [7.0.4](https://github.com/michaeldoye/mat-progress-buttons/compare/v6.0.1...v7.0.4) (2018-09-19)
+## [7.0.4](https://github.com/NDBman/mat-progress-buttons/compare/v6.0.1...v7.0.4) (2018-09-19)
 
 
 ### Bug Fixes
 
-* **demo:** fix missing props ([c6205bc](https://github.com/michaeldoye/mat-progress-buttons/commit/c6205bc))
-* **lib:** correctly disable buttons ([47c667f](https://github.com/michaeldoye/mat-progress-buttons/commit/47c667f))
-* **lib:** rename component selector ([9062483](https://github.com/michaeldoye/mat-progress-buttons/commit/9062483))
+* **demo:** fix missing props ([c6205bc](https://github.com/NDBman/mat-progress-buttons/commit/c6205bc))
+* **lib:** correctly disable buttons ([47c667f](https://github.com/NDBman/mat-progress-buttons/commit/47c667f))
+* **lib:** rename component selector ([9062483](https://github.com/NDBman/mat-progress-buttons/commit/9062483))
 
 
 ### Code Refactoring
 
-* **lib:** renaming ([a80301a](https://github.com/michaeldoye/mat-progress-buttons/commit/a80301a))
+* **lib:** renaming ([a80301a](https://github.com/NDBman/mat-progress-buttons/commit/a80301a))
 
 
 ### Features
 
-* **lib:** remove disabled when active ([69cf78e](https://github.com/michaeldoye/mat-progress-buttons/commit/69cf78e))
+* **lib:** remove disabled when active ([69cf78e](https://github.com/NDBman/mat-progress-buttons/commit/69cf78e))
 
 
 ### BREAKING CHANGES
@@ -136,32 +141,32 @@
 
 
 <a name="6.0.1"></a>
-## [6.0.1](https://github.com/michaeldoye/mat-progress-buttons/compare/v1.3.2...v6.0.1) (2018-07-09)
+## [6.0.1](https://github.com/NDBman/mat-progress-buttons/compare/v1.3.2...v6.0.1) (2018-07-09)
 
 
 
 <a name="1.3.2"></a>
-## [1.3.2](https://github.com/michaeldoye/mat-progress-buttons/compare/v1.3.1...v1.3.2) (2018-06-26)
+## [1.3.2](https://github.com/NDBman/mat-progress-buttons/compare/v1.3.1...v1.3.2) (2018-06-26)
 
 
 
 <a name="1.3.1"></a>
-## [1.3.1](https://github.com/michaeldoye/mat-progress-buttons/compare/v1.3.0...v1.3.1) (2018-06-26)
+## [1.3.1](https://github.com/NDBman/mat-progress-buttons/compare/v1.3.0...v1.3.1) (2018-06-26)
 
 
 
 <a name="1.3.0"></a>
-# [1.3.0](https://github.com/michaeldoye/mat-progress-buttons/compare/v1.2.9...v1.3.0) (2018-06-26)
+# [1.3.0](https://github.com/NDBman/mat-progress-buttons/compare/v1.2.9...v1.3.0) (2018-06-26)
 
 
 
 <a name="1.2.9"></a>
-## [1.2.9](https://github.com/michaeldoye/mat-progress-buttons/compare/v1.2.7...v1.2.9) (2017-12-17)
+## [1.2.9](https://github.com/NDBman/mat-progress-buttons/compare/v1.2.7...v1.2.9) (2017-12-17)
 
 
 
 <a name="1.2.7"></a>
-## [1.2.7](https://github.com/michaeldoye/mat-progress-buttons/compare/v1.2.3...v1.2.7) (2017-12-17)
+## [1.2.7](https://github.com/NDBman/mat-progress-buttons/compare/v1.2.3...v1.2.7) (2017-12-17)
 
 
 
